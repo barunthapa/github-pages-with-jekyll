@@ -1,12 +1,12 @@
-title: The Art of Code Review
+title: The Art of Developers
 author: Barun Thapa
 email: barunthapa.bvdt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   being the hawkeye
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: barunthapabvdt
+github_username:  barunthapa
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
